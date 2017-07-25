@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\build",
+    "\\build\\lib"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\build\\lib",
   "PreviewInSolutionExplorer": false
 }
